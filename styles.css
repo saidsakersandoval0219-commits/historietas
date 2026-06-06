@@ -101,14 +101,14 @@ margin: bottom 15px;
     gap: 10px;
 }
 
-.button{
+.buttom{
     background-color: #0077b6;
     color: #fff;
     padding:10px 20px;
     text-decoration: none;
     border-radius: 5px;
     cursor:pointer;
-    transition:background-color 0.3;
+    transition: background-color 0.3;
 }
 .button:hover{
     background-color: #00a8e8;
